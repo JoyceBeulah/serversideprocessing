@@ -131,7 +131,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![output](./beulah/static/images/sso.png)
+![sso](https://user-images.githubusercontent.com/118343698/212542565-be4dcc4e-5d5a-4877-8fc4-0c4abce3f4e0.png)
+
 
 
 ## Result:
